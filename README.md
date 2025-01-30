@@ -1,4 +1,4 @@
-# Site Internet HTML, CSS, JavaScript
+# Exposition virtuelle
 
 ## Auteurs
  
